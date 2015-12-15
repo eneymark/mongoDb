@@ -1,0 +1,16 @@
+{
+  "name": "mongoDb",
+  "version": "0.0.0",
+  "description": "MongoDB",
+  "main": "app.js",
+  "engines" : {
+    "node" : ">=4.1.1",
+    "npm" : ">=2.1.x"
+  },
+  "repository": "https://github.com/eneymark/mongoDb.git",
+  "authors": [ "Eugene" ],
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": ">=4.1.11"
+  }
+}
